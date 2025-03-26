@@ -15,7 +15,6 @@ _________ _______  _______  _______
 
 \e[31m[1]\e[40m Kurlum kodlarını çalıştırır.
 \e[31m[2]\e[40m En çok kullanılan tooları kurar.
-\e[31m[3] Troxgen sosyal medya hesapları.
 \e[31m[0] Tooldan çıkış yaparsınız. 
 \e[31m\e[40m'
 
