@@ -1,14 +1,17 @@
-# Terox
-
 ## 📌 Kurulum
 ```bash
 git clone https://github.com/Troxgen/Terox.git
 cd Terox
-npm install  # veya yarn install
+chmod +x trx.sh
+./trx.sh
 ```
 
 ## 🔥 Kullanım
-Projeyi başlatmak için aşağıdaki komutu çalıştırın:
-```bash
-npm start  # veya yarn start
-```
+Betik çalıştırıldığında aşağıdaki seçenekleri sunar:
+
+1️⃣ **Kurulum kodlarını çalıştırır** – Gerekli paketleri yükler.
+2️⃣ **En çok kullanılan araçları kurar** – Popüler güvenlik ve analiz araçlarını yükler.
+3️⃣ **Troxgen sosyal medya hesaplarını listeler**
+0️⃣ **Çıkış yapar** – Betikten çıkış yapmanızı sağlar.
+
+Betik ayrıca **T-U-R-K** ve **Turk-Sploit** gibi araçları yükleme seçeneği sunar.
